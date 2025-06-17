@@ -1,6 +1,3 @@
----
-
-````markdown
 # 🎮 Nintendo Switch Global Sales Tracker
 
 An end-to-end data engineering and data analysis project that collects, processes, and visualizes global Nintendo Switch game sales by region. Designed to enhance data engineering and data analysis skills through real-world, multi-source datasets and modern tooling.
