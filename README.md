@@ -123,8 +123,8 @@ switch-sales-tracker/
 
 ## 🤝 Contributors
 
-* **Arjun Gupta** – Data Engineering Lead
-* **\[Friend’s Name]** – Data Analysis Lead
+* **Arjun Gupta** – Data Engineering 
+* **Dylan Roberts** – Data Analysis 
 
 ---
 
@@ -133,20 +133,3 @@ switch-sales-tracker/
 [MIT License](LICENSE)
 
 ---
-
-## ⭐ Want to Help?
-
-Fork the repo, suggest improvements, or file issues!
-We welcome feedback from data engineers, analysts, and Nintendo fans alike 🎮
-
-```
-
----
-
-Would you like me to:
-- Generate a sample `requirements.txt`?
-- Draft `schema.sql` for `fact_sales`, `dim_game`, and `dim_region`?
-- Write a starter script for the VGChartz scraper?
-
-Let me know how you’d like to continue!
-```
